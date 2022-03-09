@@ -1,0 +1,86 @@
+{
+  "itemGroup.uniformsoulsmod.souls": "§3UniformBoy's Souls",
+  "itemGroup.uniformsoulsmod.blocks": "§3UniformBoy's Blocks",
+  "itemGroup.uniformsoulsmod.materials": "§3UniformBoy's Materials",
+  "itemGroup.uniformsoulsmod.armor": "§3UniformBoy's Armor",
+  "itemGroup.uniformsoulsmod.combat": "§3UniformBoy's Combat",
+  "itemGroup.uniformsoulsmod.tools": "§3UniformBoy's Tools",
+
+
+
+  "item.uniformsoulsmod.justice_soul": "§eSoul Of Justice",
+  "item.uniformsoulsmod.kindness_soul": "§aSoul Of Kindness",
+  "item.uniformsoulsmod.bravery_soul": "§6Soul Of Bravery",
+  "item.uniformsoulsmod.perseverance_soul": "§5Soul Of Perseverance",
+  "item.uniformsoulsmod.patience_soul": "§bSoul Of Patience",
+  "item.uniformsoulsmod.determination_soul": "§4Soul Of Determination",
+  "item.uniformsoulsmod.hate_soul": "§0§mSoul Of H§ka§r§0te",
+  "item.uniformsoulsmod.corruption_soul": "§0§n§m§oSoul Of Corruption",
+  "item.uniformsoulsmod.integrity_soul": "§1Soul Of Integrity",
+  "item.uniformsoulsmod.monster_soul": "Monster Soul",
+  "item.uniformsoulsmod.asriel_soul": "S§4o§6u§el §bO§1f §aH§fo§4p§6e",
+  "item.uniformsoulsmod.despair_soul": "§4§n§m§oSoul Of Despair",
+  "item.uniformsoulsmod.fear_soul": "§6§n§m§oSoul Of Fear",
+  "item.uniformsoulsmod.immorality_soul": "§e§n§m§oSoul Of Immorality",
+  "item.uniformsoulsmod.wrath_soul": "§a§n§m§oSoul Of Wrath",
+  "item.uniformsoulsmod.recklessness_soul": "§b§n§m§oSoul Of Recklessness",
+  "item.uniformsoulsmod.deceit_soul": "§1§n§m§oSoul Of Deceit",
+  "item.uniformsoulsmod.apathy_soul": "§5§n§m§oSoul Of Apathy",
+  "item.uniformsoulsmod.corrupted_monster_soul": "§8§n§m§oCorrupted Monster Soul",
+  "item.uniformsoulsmod.empty_soul_container": "§8Empty Soul Container",
+
+  "item.uniformsoulsmod.dragon_scale": "Dragon Scale",
+  "item.uniformsoulsmod.dragon_ingot": "DragonSteel Ingot",
+
+  "item.uniformsoulsmod.dragon_helmet": "DragonSteel Helmet",
+  "item.uniformsoulsmod.dragon_chestplate": "DragonSteel Chestplate",
+  "item.uniformsoulsmod.dragon_leggings": "DragonSteel Leggings",
+  "item.uniformsoulsmod.dragon_boots": "DragonSteel Boots",
+
+  "item.uniformsoulsmod.dragon_sword": "DragonSteel Sword",
+
+  "item.uniformsoulsmod.dragon_pickaxe": "DragonSteel Pickaxe",
+  "item.uniformsoulsmod.dragon_axe": "DragonSteel Axe",
+  "item.uniformsoulsmod.dragon_shovel": "DragonSteel Shovel",
+  "item.uniformsoulsmod.dragon_hoe": "DragonSteel Hoe",
+
+
+
+  "block.uniformsoulsmod.corruption": "Corruption",
+  "block.uniformsoulsmod.corruption_apathy": "Corruption - Apathy",
+  "block.uniformsoulsmod.corruption_deceit": "Corruption - Deceit",
+  "block.uniformsoulsmod.corruption_despair": "Corruption - Despair",
+  "block.uniformsoulsmod.corruption_fear": "Corruption - Fear",
+  "block.uniformsoulsmod.corruption_immorality": "Corruption - Immorality",
+  "block.uniformsoulsmod.corruption_recklessness": "Corruption - Recklessness",
+  "block.uniformsoulsmod.corruption_wrath": "Corruption - Wrath",
+  "block.uniformsoulsmod.corruption_core_1": "Corruption Core",
+
+  "block.uniformsoulsmod.dragon_block": "Block Of DragonSteel",
+
+  "block.uniformsoulsmod.marble_bricks": "Marble Bricks",
+  "block.uniformsoulsmod.marble_brick_stairs": "Marble Brick Stairs",
+  "block.uniformsoulsmod.marble_brick_slab": "Marble Brick Slab",
+
+
+
+  "effect.uniformsoulsmod.determined": "Determined",
+  "effect.uniformsoulsmod.nogravity": "No Gravity",
+  "effect.uniformsoulsmod.gravity": "Gravity",
+  "effect.uniformsoulsmod.justice1": "Justice",
+  "effect.uniformsoulsmod.integrity1": "Integrity",
+  "effect.uniformsoulsmod.perseverance1": "Perseverance",
+  "effect.uniformsoulsmod.patience1": "Patience",
+  "effect.uniformsoulsmod.bravery1": "Bravery",
+  "effect.uniformsoulsmod.kindness1": "Kindness",
+  "effect.uniformsoulsmod.kindness2": "Kindness",
+  "effect.uniformsoulsmod.determination1": "Determination",
+  "effect.uniformsoulsmod.jusdebuff1": "Immorality",
+  "effect.uniformsoulsmod.intdebuff1": "Deceit",
+  "effect.uniformsoulsmod.perdebuff1": "Apathy",
+  "effect.uniformsoulsmod.patdebuff1": "Recklessness",
+  "effect.uniformsoulsmod.bradebuff1": "Dishonor",
+  "effect.uniformsoulsmod.kindebuff1": "Wrath",
+  "effect.uniformsoulsmod.corruptioncorrupting1": "Corrupting",
+  "effect.uniformsoulsmod.detdebuff1": "Despair"
+}

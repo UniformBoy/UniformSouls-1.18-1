@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.uniform.uniformsoulsmod.UniformSoulsMod"
+    ],
+    "client": [
+      "net.uniform.uniformsoulsmod.UniformSoulsModClient"
     ]
   },
   "mixins": [

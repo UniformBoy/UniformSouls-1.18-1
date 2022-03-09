@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nnn",
+    "nnn",
+    "nnn"
+  ],
+  "key": {
+    "n": {
+      "item": "uniformsoulsmod:dragon_ingot"
+    }
+  },
+  "result": {
+    "item": "uniformsoulsmod:dragon_block",
+    "count": 1
+  }
+}

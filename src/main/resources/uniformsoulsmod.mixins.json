@@ -4,6 +4,7 @@
   "package": "net.uniform.uniformsoulsmod.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "DragonArmorItemMixin"
   ],
   "client": [
     "ExampleMixin"

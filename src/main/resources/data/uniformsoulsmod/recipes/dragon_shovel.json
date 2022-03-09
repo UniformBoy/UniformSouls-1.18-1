@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "item": "uniformsoulsmod:dragon_ingot"
+  },
+  "result": {
+    "item": "uniformsoulsmod:dragon_shovel"
+  }
+}

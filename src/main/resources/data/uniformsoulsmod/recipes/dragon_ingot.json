@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "PnP",
+    "#P#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dragon_breath"
+    },
+    "P": {
+      "item": "uniformsoulsmod:dragon_scale"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "uniformsoulsmod:dragon_ingot",
+    "count": 1
+  }
+}

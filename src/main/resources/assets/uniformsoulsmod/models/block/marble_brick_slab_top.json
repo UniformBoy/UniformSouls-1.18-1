@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "uniformsoulsmod:blocks/marble_bricks",
+    "top": "uniformsoulsmod:blocks/marble_bricks",
+    "side": "uniformsoulsmod:blocks/marble_bricks"
+  }
+}

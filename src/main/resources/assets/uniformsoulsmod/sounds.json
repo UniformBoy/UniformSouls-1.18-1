@@ -1,0 +1,11 @@
+{
+  "asriel_soul_sound_1": {
+    "category": "items",
+    "sounds": [
+      {
+        "name": "uniformsoulsmod:items/souls/asriel_soul_sound_1",
+        "stream": false
+      }
+    ]
+  }
+}
